@@ -1,1 +1,1 @@
-# M2-Embedded_Light_Sensor
+# M2-Embedded_Biometric_Attendance_System
