@@ -2,41 +2,40 @@
 
 **Introduction**
 
-The term ATM stands for automated teller machine. It is an electronic device that is used by only bank customers to process account transactions. The users access their accounts through a special type of plastic card that is encoded with user information on a magnetic strip.
+According to researchers from Pen state University, humans are more likely to trust machines over people, which is likely evident from us revealing our ATM pin to a machine so easily. Today, in the world where AI, Machine learning, Chat bots, Smart Speakers, Robots etc are actively progressing, this synergy between humans and robots is only set to increase. Today, from bridge toll collectors to check-out cashiers everything around us is being replaced by machines to get the work done easier and more efficient. 
 
 **Research**
 
 ## Objective
 
-The project to be designed will control a simulated automated teller machine (ATM) having a magnetic stripe reader for reading an ATM card, a customer console (keyboard and display) for interaction with the customer, a slot for depositing envelopes, a dispenser for cash, a printer for printing customer receipts, and a key-operated switch to allow an operator to start or stop the machine. The ATM will communicate with the bank's computer over an appropriate communication link. Design the ATM system in detail with the architectural design.
+To keep up with the phase, in this project we will build a Bio-metric Attendance system using AVR microcontrollers to replace the manual procedure of taking attendance. This system will be more reliable and efficient since it would save time and avoid dodgers.  
+
 
 ## Benefits
 
-Customers are able to do financial transactions conveniently with the use of ATMs. They can avail various banking services and can do payments seating at their home comfort.
-ATMs provides 24 hours a day, 7 days a week and 365 days a year to all its customers. Unlike bank branches, it does not have any time schedule for its operations. Customers can access their bank accounts and withdraw their money at any time of day or night as per their convenience.
+Fingerprint attendance systems are already readily available directly from the market, but what is more fun than building one. In this project, we have used fingerprint Module and AVR(atmega32) to register attendance. By using fingerprint sensor, the system will become more secure for the users. Following sections explains technical details of making a fingerprint-based Biometric Attendance System using AVR.
 
 ## Cost and Features
 
-By using an automated teller machine or ATM we can perform different financial transactions such as cash deposits, withdrawals, transfer funds, information of account, ATM PIN change, and also linking the Aadhaar number to the bank account so that the interaction between the bank staff and the customer can be reduced.
+Our range of systems record the daily attendance and working hours of the employees in an organization and are quite reliable. Fingerprint Time & Attendance User’s Guide It is convenient to operate the fingerprint time &attendance machine. Users can select menu, keyboard inputting and all kinds of setting with 5 function keys and number keys. And the voice message and a beep sound will inform users whether the operation is correct or not. .
 
 ## 4W's and 1'H
 
 ## Who
 
-ATM Machine's can be used by anyone with ATM card. Anyone with a credit card or debit card can access cash at ATMs.
+Moving to a biometric attendance system is the first step in your journey to enhance the security of your organisation and increase the productivity of your employees.
 
 ## What
 
-Automated teller machines (ATMs) are electronic banking outlets that allow people to complete transactions without going into a branch of their bank.
+A biometric attendance machine is a device which is used to verify the identity of a person. The characteristics used to identify a person include fingerprints, voice patterns, iris, face recognition, and hand measurements.
 
 ## When
 
-It is a self-service outlet that you can use to withdraw money, check balance or even transfer funds. Different banks provide their ATM services by installing cash machines in different parts of the country.
+A biometric attendance machine is a device which is used to verify the identity of a person. The characteristics used to identify a person include fingerprints, voice patterns, iris, face recognition, and hand measurements.
 
 ## Where
 
-ATMs can be placed at any location but are most often placed near or inside banks, shopping centers/malls, airports, railway stations, metro stations, grocery stores, petrol/gas stations, restaurants, and other locations. 
-An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
+The main uses of biometric systems and devices are identification and authentication. Biometric devices are most commonly used in security, banking, mobile access and authentication, law enforcement, public transports, schools, home assistants, and building access.
 
 ## How
 
