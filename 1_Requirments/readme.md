@@ -45,37 +45,35 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 |**ID**|**Description**|**Category**|**Status**|
 | :-: | :-: | :-: | :-: |
-|HR01|User shall be able to choose one of the options|Technical|IMPLEMENTED|
-|HR02|User shall be able to choose check balance amount|Technical|IMPLEMENTED|
-|HR03|User shall be able to choose deposit money|Technical|IMPLEMENTED|
-|HR04|User shall be able to choose withdraw money|Technical|IMPLEMENTED|
-|HR05|User shall be able to exit the application|Technical|IMPLEMENTED|
+|HR01|Atmega328|Technical|IMPLEMENTED|
+|HR02|Fingerprint module (r305) |Technical|IMPLEMENTED|
+|HR03|Push Button or membrane buttons|Technical|IMPLEMENTED|
+|HR04|LEDs|Technical|IMPLEMENTED|
+|HR05|1K Resistor, 2.2K resistor|Technical|IMPLEMENTED|
 
 ## Low level Requirements
 
-|**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
-| :-: | :-: | :-: | :-: |
-|LR01|User must choose one of the options |HR01|IMPLEMENTED|
-|LR02|User can choose to check the available balance in the bank account|HR02|IMPLEMENTED|
-|LR03|User can choose to deposit amount into the bank account|HR03|IMPLEMENTED|
-|LR04|User can choose to withdraw amount from the bank account|HR04|IMPLEMENTED|
-|LR05|The user can exit the application if he/she checked balance, deposit money or withdrawed money|HR05|IMPLEMENTED|
+|**ID**|**Description**|**Status (Implemented/Future)**|
+| :-: | :-: | :-: |
+|LR01|Power 12v adaptor |IMPLEMENTED|
+|LR02|16x2 LCD|IMPLEMENTED|
+|LR03|RTC Module (ds1307 or ds3231|IMPLEMENTED|
+|LR04|1000uf, 10uf capacitor|IMPLEMENTED|
+|LR05|BC547 Transistor|IMPLEMENTED|
 
 ## SWOT ANALYSIS
 
 ## Strengths
 
-Withdraw cash at any time or in urgent without the help of bank. It ensures privacy to the customers.
+Store backup data quickly with USB connectivity.Designed intelligently to ensure the lowest errors.Store and verify a large number of fingerprints.Easy to use and track employee attendance.Good to maintain a high level of security.
 
 ## Weakness
 
-The initial amount of the application is fixed and cant be changed by user.
+Data breaches – Biometric databases can still be hacked. Tracking and data – Biometric devices like facial recognition systems can limit privacy for users.
 
 ## Opportunities
 
-Oppertunity to serve whole world with this application.
-
-Saves time by not going to bank for transactions.
+The characteristics used to identify a person include fingerprints, voice patterns, iris, face recognition, and hand measurements.
 
 ## Threats
 Insufficient network security.
