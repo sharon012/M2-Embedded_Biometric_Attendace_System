@@ -10,7 +10,6 @@ According to researchers from Pen state University, humans are more likely to tr
 
 To keep up with the phase, in this project we will build a Bio-metric Attendance system using AVR microcontrollers to replace the manual procedure of taking attendance. This system will be more reliable and efficient since it would save time and avoid dodgers.  
 
-
 ## Benefits
 
 Fingerprint attendance systems are already readily available directly from the market, but what is more fun than building one. In this project, we have used fingerprint Module and AVR(atmega32) to register attendance. By using fingerprint sensor, the system will become more secure for the users. Following sections explains technical details of making a fingerprint-based Biometric Attendance System using AVR.
