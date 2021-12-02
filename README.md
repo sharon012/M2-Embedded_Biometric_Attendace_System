@@ -1,7 +1,7 @@
 # M2-Embedded_Biometric_Attendance_System
 
 ## Quality Badge
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bc802784c87420fb9b9249eb6940ae7)](https://www.codacy.com/gh/sharon012/M1_Application_ATM_Machine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharon012/M1_Application_ATM_Machine&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3773f6f1103f43af944ff4ee3e948a19)](https://www.codacy.com/gh/sharon012/M2-Embedded_Biometric_Attendace_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharon012/M2-Embedded_Biometric_Attendace_System&amp;utm_campaign=Badge_Grade)
 
 ## Code Quality Score
 [![Quality Score Badge](https://api.codiga.io/project/30243/score/svg)](https://app.codacy.com/gh/sharon012/M2-Embedded_Biometric_Attendace_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharon012/M2-Embedded_Biometric_Attendace_System&amp;utm_campaign=Badge_Grade)
