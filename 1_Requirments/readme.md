@@ -45,21 +45,21 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 |**ID**|**Description**|**Category**|**Status**|
 | :-: | :-: | :-: | :-: |
-|HR01|Atmega328|Technical|IMPLEMENTED|
-|HR02|Fingerprint module (r305) |Technical|IMPLEMENTED|
-|HR03|Push Button or membrane buttons|Technical|IMPLEMENTED|
-|HR04|LEDs|Technical|IMPLEMENTED|
-|HR05|1K Resistor, 2.2K resistor|Technical|IMPLEMENTED|
+|HR01|User shall be able to choose number of fingerprint|Technical|IMPLEMENTED|
+|HR02|User shall be able to choose check number of fingerprint|Technical|IMPLEMENTED|
+|HR03|User shall be able to add fingerprint|Technical|IMPLEMENTED|
+|HR04|User shall be able to delete fingerprint|Technical|IMPLEMENTED|
+|HR05|User shall be able to exit the application after giving the attendance|Technical|IMPLEMENTED|
 
 ## Low level Requirements
 
-|**ID**|**Description**|**Status (Implemented/Future)**|
-| :-: | :-: | :-: |
-|LR01|Power 12v adaptor |IMPLEMENTED|
-|LR02|16x2 LCD|IMPLEMENTED|
-|LR03|RTC Module (ds1307 or ds3231|IMPLEMENTED|
-|LR04|1000uf, 10uf capacitor|IMPLEMENTED|
-|LR05|BC547 Transistor|IMPLEMENTED|
+|**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
+| :-: | :-: | :-: | :-: |
+|LR01|User must choose which fingerprint|HR01|IMPLEMENTED|
+|LR02|User can choose to identify which fingerprint|HR02|IMPLEMENTED|
+|LR03|User can add fingerprint into it|HR03|IMPLEMENTED|
+|LR04|User can delete fingerprint|HR04|IMPLEMENTED|
+|LR05|User can able to exit after update the fingerprint|HR05|IMPLEMENTED|
 
 ## SWOT ANALYSIS
 
