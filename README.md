@@ -3,6 +3,9 @@
 ## Quality Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3773f6f1103f43af944ff4ee3e948a19)](https://www.codacy.com/gh/sharon012/M2-Embedded_Biometric_Attendace_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharon012/M2-Embedded_Biometric_Attendace_System&amp;utm_campaign=Badge_Grade)
 
+## CPP Check
+[![CPP Check](https://github.com/sharon012/M2-Embedded_Biometric_Attendace_System/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/sharon012/M2-Embedded_Biometric_Attendace_System/blob/main/.github/workflows/cpp_check.yml)
+
 ## Code Quality Score
 [![Quality Score Badge](https://api.codiga.io/project/30243/score/svg)](https://app.codacy.com/gh/sharon012/M2-Embedded_Biometric_Attendace_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharon012/M2-Embedded_Biometric_Attendace_System&amp;utm_campaign=Badge_Grade)
 
